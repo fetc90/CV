@@ -1,4 +1,4 @@
-# F R A N C E S C A  C H A T E R  
+# F R A N C E S C A _ C H A T E R  
 
 I am a Junior Developer looking for my first job to learn all sorts of exciting new things. The funnest lesson I have taken from Makers Academy is if I can learn one thing, I can learn another.
 
@@ -14,7 +14,7 @@ I have always loved cartoons and animations and I can't wait to build my first A
 
 I forgot how much I loved painting - wanting to have a break from coding meant that I bought a sketch pad and paints again. 
 
- It's odd that doing something supposedly "serious" has made me think more creatively and energetically than I have since I was in primary school. I guess it's because I haven't felt this child-like excitement about something in a long time. 
+ It's odd that doing something supposedly "serious" has made me think with more creaticity and energy than I have since I was in primary school. I guess it's because I haven't felt this child-like excitement about something in a long time. 
 
 Below are my favourite projects from my time at Makers.
 
@@ -62,7 +62,7 @@ Finally, an app for aliens to communicate with their friends.*
 
 
 ![comment](https://media.giphy.com/media/Us5MlyTSCQnAVPKPq3/giphy.gif)
-<br>(NASA verified.) 
+<br>
 
 <p>
 
@@ -97,34 +97,8 @@ We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was 
 
 ----
 
-#### T E S T I N G 
 
-- Test Driven Development (TDD) in RSpec, Jasmin and Cabybara. 
-- High test code coverage ( > 95%) and code maintainability.
-- Continuous Integration: Travis CI to Heroku.
-
-
-#### P R O C E S S 
-
-- Object Orientated Programming (OOP). 
-- Clean code (DRY) with Single Responsibility Programming (SRP). Use of linters. 
-- Learning a new language / programme fast: Ruby, Ruby on Rails and Javascript. Front-end styling with CSS and HTML5.
-- Databases: PostgreSQL, Datamapper, ActiveRecord.
-- Experience
-- Achievements
-- Evidence
-
-#### T E A M W O R K 
-
-Working as a team using agile and XP practises:
- - Specifications --> User stories --> Tickets.
- - Planning: Object relational mapping (ORM).
- - Pair programming and mobbing.
- - Regular stand-ups and retros for group projects. 
- - Documenting process. 
- - Project collaboration on Github. 
-
-#### I N D E P E N D A N T    L E A R N I N G 
+#### I N D E P E N D A N T  _  L E A R N I N G 
 Having had no previous coding experience, I taught myself Ruby to be accepted into Maker's Academy, a notoriously selective course with a 10% acceptance rate. 
 
 
@@ -136,18 +110,34 @@ Having had no previous coding experience, I taught myself Ruby to be accepted in
 
 #### Makers Academy (April '19 to July '19)
 
-- Building new things every week.
-- Fast, independent learner. Learnt 
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
-- Agile/XP. During my first engineering project I worked in a team of 6 to create a website called Spacebook. To ensure an agile working environment we met as a team three times a day for check-ins, documenting what we had acheived and what we were going to do for the next section of the day. We estimated how long each task would take and created two-day sprints to accomdate this. 
-- I am language agnostic. Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
+<details><summary>Test Driven Development (TDD).</summary>
+<p> 
 
-- Pair programming (Driver / Navigator)
-- Test Driven Development with RSpec 
+![lights](images/lights.gif)
+<p>
+
+</details>
+
+<details><summary>Agile methodologies.</summary>
+<p> 
+
+![lights](images/lights.gif)
+<p>
+
+</details>
+
+<details><summary>Language agnostic.</summary>
+<p> 
+
+![lights](images/lights.gif)
+<p>
+
+</details>
+
 -----
 
 #### University of Sussex (Sep '10 to May '14)
@@ -199,8 +189,8 @@ Previous work experience in managing brand communication campaigns and publicity
 
 # H O B B I E S
 
-* I like art, I go to an exhibtion on Sunday afternoons because it takes you to a different part of your brain and you remember how much other stuff there is out there. One of the most amazing exhibitions I went to was Marshmellow Laser Feast - Air. I had never seen art and technology combined like that.
-* I like to take photos and paint things, they're just colourful blobs at the moment.
-* Big fan of cycling, I cycled from Milan to Barcelona two years ago, staying at eco-villages and camping. 
-* I'm lucky to have a geographically-dispersed family: a grandmother in Mexico and cousins who I'm very close with in Paris and New York. We're similar ages so as we grew up I visited them in Atlanta when we were in high school and New Orleans when we were in college. I'm going to South Africa with them in August so I'm reading lots of books by South African authors.
-* Now I can definitely add to my list building fun side projects. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C++ for a VR and AR project. 
+* I like art, I go to an exhibtion on Sunday afternoons because it takes you to a different part of your brain and you remember how much other stuff is out there. One of the most amazing exhibitions I went to was Marshmellow Laser Feast, We Live in an Ocean of Air. I had never seen art and technology combined like that and seeing that sparked a huge interest in VR and AR I'd never had before.
+* I like photography and paint things, they're just colourful blobs at the moment.
+* I got very into cycling; I cycled from Milan to Barcelona in two weeks, staying at eco-villages and camping.
+* I'm lucky to have family all over the place: my grandmother lives in Mexico and my are in Paris and New York. We're similar ages so as we grew up I visited them in Atlanta when we were in high school and New Orleans when we were in college. I'm going to South Africa with them in August so I'm reading lots of books by South African authors. 
+* Now I can add building fun side projects to my list. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C++ for an AR project.
