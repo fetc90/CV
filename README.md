@@ -1,6 +1,6 @@
-# F R A N C E S C A _ C H A T E R  
+# FRANCESCA CHATER 
 
-I am a Junior Developer looking for my first job to learn all sorts of exciting new things. The funnest lesson I have taken from Makers Academy is if I can learn one thing, I can learn another.
+I am a Junior Developer looking for my first job to learn all sorts of exciting new things. One of the best things I have taken from Maker's Academy is if I can learn one thing, I can learn another.
 
 # S K I L L S
 
@@ -11,10 +11,9 @@ The most amazing and surprising discovery I have experienced through tech is rec
 I forgot how much I loved RTS games (Age of Empires II, Dungeon Keeper, Tropico); it was deeply satifying to build something up methodically and see that creation in action.
 
 I have always loved cartoons and animations and I can't wait to build my first AR app as a fun side project. 
+ 
 
-I forgot how much I loved painting - wanting to have a break from coding meant that I bought a sketch pad and paints again. 
-
- It's odd that doing something supposedly "serious" has made me think with more creaticity and energy than I have since I was in primary school. I guess it's because I haven't felt this child-like excitement about something in a long time. 
+ It's odd that doing something supposedly "serious" has made me think with more creativity and energy than I have since I was in primary school. I guess it's because I haven't felt this child-like excitement about something in a long time. 
 
 Below are my favourite projects from my time at Makers.
 
@@ -98,13 +97,33 @@ We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was 
 ----
 
 
-#### I N D E P E N D A N T  _  L E A R N I N G 
-Having had no previous coding experience, I taught myself Ruby to be accepted into Maker's Academy, a notoriously selective course with a 10% acceptance rate. 
+T E S T I N G
+
+- Test Driven Development (TDD) in RSpec, Jasmin and Cabybara. 
+- High test code coverage ( > 95%) and code maintainability.
+- Continuous Integration: Travis CI to Heroku.
 
 
-#### Communication
+P R O C E S S
 
-- Pair-programming
+- Object Orientated Programming (OOP). 
+- Clean code (DRY) with Single Responsibility Programming (SRP). Use of linters. 
+- Learning a new language / programme fast: Ruby, Ruby on Rails and Javascript. Front-end styling with CSS and HTML5.
+- Databases: PostgreSQL, Datamapper, ActiveRecord.
+- Experience
+- Achievements
+- Evidence
+
+T E A M W O R K
+
+Working as a team using agile and XP practises:
+ - Specifications —> User stories —> Tickets.
+ - Planning: Object relational mapping (ORM).
+ - Pair programming and mobbing.
+ - Regular stand-ups and retros for group projects. 
+ - Documenting process. 
+ - Project collaboration on Github. 
+
 
 # E D U C A T I O N
 
@@ -190,7 +209,6 @@ Previous work experience in managing brand communication campaigns and publicity
 # H O B B I E S
 
 * I like art, I go to an exhibtion on Sunday afternoons because it takes you to a different part of your brain and you remember how much other stuff is out there. One of the most amazing exhibitions I went to was Marshmellow Laser Feast, We Live in an Ocean of Air. I had never seen art and technology combined like that and seeing that sparked a huge interest in VR and AR I'd never had before.
-* I like photography and paint things, they're just colourful blobs at the moment.
+* I like taking photos but I forgot how much I loved painting - wanting to have a break from coding meant that I bought a sketch pad and paints again.
 * I got very into cycling; I cycled from Milan to Barcelona in two weeks, staying at eco-villages and camping.
-* I'm lucky to have family all over the place: my grandmother lives in Mexico and my are in Paris and New York. We're similar ages so as we grew up I visited them in Atlanta when we were in high school and New Orleans when we were in college. I'm going to South Africa with them in August so I'm reading lots of books by South African authors. 
 * Now I can add building fun side projects to my list. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C++ for an AR project.
