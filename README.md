@@ -4,7 +4,7 @@ I am a Junior Developer looking for my first job to learn all sorts of exciting 
 
 # S K I L L S
 
-### L O V E 🤖 O F 🤖 T E C H 
+L O V E _ O F _ T E C H 
 
 The most amazing and surprising discovery I have experienced through tech is reconnecting to all my old loves. When I told my mum I wanted to learn how to programme, she replied, "Well that makes complete sense considering how much you loved computer games."
 
