@@ -1,10 +1,101 @@
-# Francesca Chater
+# F R A N C E S C A  C H A T E R  
 
-I am a Junior Developer looking for my first job to learn all sorts of exciting new things. If my masters degree taught me anything, it was to  write clearly, you want people on your side. This translates across all walks of life, especially when writing code. 
-
-The most fun thing I have taken from Makers Academy is that if I can learn one thing, I can learn another.
+I am a Junior Developer looking for my first job to learn all sorts of exciting new things. The funnest lesson I have taken from Makers Academy is if I can learn one thing, I can learn another.
 
 # S K I L L S
+
+### L O V E 🤖 O F 🤖 T E C H 
+
+The most amazing and surprising discovery I have experienced through tech is reconnecting to all my old loves. When I told my mum I wanted to learn how to programme, she replied, "Well that makes complete sense considering how much you loved computer games."
+
+I forgot how much I loved RTS games (Age of Empires II, Dungeon Keeper, Tropico); it was deeply satifying to build something up methodically and see that creation in action.
+
+I have always loved cartoons and animations and I can't wait to build my first AR app as a fun side project. 
+
+I forgot how much I loved painting - wanting to have a break from coding meant that I bought a sketch pad and paints again. 
+
+ It's odd that doing something supposedly "serious" has made me think more creatively and energetically than I have since I was in primary school. I guess it's because I haven't felt this child-like excitement about something in a long time. 
+
+Below are my favourite projects from my time at Makers.
+
+---
+
+P R O J E C T 🌵 D E E P R O O T
+<br>
+_[Project Github](https://github.com/breycarr/deep_root)_
+
+For the final project, our team built a plant health monitoring system. We used all new software and we had never used any of the hardware before. 
+Building something with code that took live readings from a real, living thing was such an incredible feeling. I loved combining code with something that is quintessentially the complete opposite of technology.
+
+<details><summary>We want lights!</summary>
+<p> 
+
+![lights](images/lights.gif)
+<p>
+
+</details>
+<details><summary>No wait, we want a touchscreen!</summary>
+<p> 
+
+![touchscreen](images/touchscreen.png)
+<p>
+
+</details>
+
+[Video Presentation](https://en-gb.facebook.com/MakersAcademy/videos/1335893893240030) 
+<br> 17:17 Project Deeproot
+
+We documented any particularly exciting moments in our shared team [blog](https://medium.com/@makers_c_a_c_t_u_s). For example, we had never tested hardware before. If something doesn't work how you thought it would - a light doesn't turn on or the touch screen stops working after you merge everything - how do you fix that? After quickly suppressing mild panic, we were able to fix these issues in the same way we would fix bugs in our code. We eradicated possibilities by confirming parts we knew were working and got visibility in our code to ensure all our code was being reached. For more details, [here](https://medium.com/@makers_c_a_c_t_u_s/how-do-you-tdd-hardware-25f62da9aa) is how we discovered why our light wasn't turning on. As our first hardware bug, it was very exciting when we located the problem.
+
+-----
+S P A C E B O O K
+<br>
+_[Project Github](https://github.com/fetc90/acebook-spacebook)_
+<br>
+_[Live App](https://acebook-spacebook.herokuapp.com/)_
+
+Finally, an app for aliens to communicate with their friends.*
+
+ <!-- DROP DOWN SECTION ------- -->
+<details><summary> Aliens can sign up and login. </summary>
+<p> 
+
+
+![comment](https://media.giphy.com/media/Us5MlyTSCQnAVPKPq3/giphy.gif)
+<br>(NASA verified.) 
+
+<p>
+
+</details>
+
+
+
+<details><summary> They can write messages and edit them within 10 minutes of posting. </summary>
+<p> 
+
+
+![comment](https://media.giphy.com/media/LklBeZgxPDU467685C/giphy-downsized-large.gif)
+<br> 
+
+<p>
+
+</details>
+
+<details><summary>Search for an alien who hasn't registered for Spacebook yet.</summary>
+<p> 
+
+![dance](images/dance.gif)
+<p>
+
+</details>
+
+ <!-- DROP DOWN SECTION ENDS------- -->
+
+We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was one of the most challenging parts of the project; all our tests were passing on Travis but the build wasn't deploying. As we were so new to both systems we weren't sure why the connection broke down. But you'll be relieved to know we fixed it. It was such a relief I felt compelled to [write about it](https://medium.com/@spacebook3000/fixing-heroku-by-francesca-b1d2e5a9e1ec). <br>
+
+*NASA verfied.
+
+----
 
 #### T E S T I N G 
 
@@ -37,15 +128,6 @@ Working as a team using agile and XP practises:
 Having had no previous coding experience, I taught myself Ruby to be accepted into Maker's Academy, a notoriously selective course with a 10% acceptance rate. 
 
 
-#### L O V E 🤖 O F 🤖 T E C H 
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 #### Communication
 
 - Pair-programming
@@ -66,15 +148,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Pair programming (Driver / Navigator)
 - Test Driven Development with RSpec 
+-----
 
 #### University of Sussex (Sep '10 to May '14)
 
-- **Human Rights MA (Merit)**
-- I focussed on women in the UK prison system and interviewed staff across the job board. Though I wasn't able to come to any real conclusions in my dissertation, hearing about experiences from the interviewees was one of the best things I did at university.
+*Human Rights MA (Merit)*
 
-- **English Literature and History of Art BA (Hons) 2:1**
-- I learnt how not to write. I could waffle, bluff and throw out vague, embellished sentences full of words I didn't understand. A crucial lesson for all areas of life: say what you want to say as simply as possible, you want the reader on your side. This emphasised the importance of clean code in my programmes. You don't want to stress people out when they look at your files.  
+<details><summary>Best thing I took from it?</summary>
+<p> 
 
+I based my dissertation on women in prisons in the UK. I interviewed prison staff across the board, including male and female officers, a counsellor from the sexual offenders ward, a nurse and the prison warden. The research was engrossing and that whole experience was  the most rewarding I had at university. After doing this I have known that I want to volunteer as a teacher in prisons in the future, either teaching creative writing or an introduction to programming. 
+<p>
+
+</details>
+
+*English Literature and History of Art BA (Hons) 2:1*
+
+<details><summary>Best thing I took from it?</summary>
+<p> 
+I learnt the invaluable lesson of how not to write. I loved reading novels and studying emotive (and some not so emotive) pieces of art. The only trouble was I was also reading a lot of critical art and literature essays, which meant I started imitating them in my own writing. It was not effective. What point was I trying to make? Who knows, you've fallen down my Alice in Wonderland tunnel of a sentence. You want the readers on your side. You also want to know exactly what you're talking about. Sure, obvious now, but it takes a couple of years of waffle to fully comprehend how little sense you’re making. 
+<p>
+
+</details>
 
 
 # E X P E R I E N C E
@@ -101,3 +196,11 @@ Previous work experience in managing brand communication campaigns and publicity
 *Content Producer*
 
 - This was my first expereince working with software developers. My role was to write content and edit images that would engage the users. Every week, there was a meeting with all the staff members about what could be done to improve the app and I could listen to the developers talk about what they had acheived.
+
+# H O B B I E S
+
+* I like art, I go to an exhibtion on Sunday afternoons because it takes you to a different part of your brain and you remember how much other stuff there is out there. One of the most amazing exhibitions I went to was Marshmellow Laser Feast - Air. I had never seen art and technology combined like that.
+* I like to take photos and paint things, they're just colourful blobs at the moment.
+* Big fan of cycling, I cycled from Milan to Barcelona two years ago, staying at eco-villages and camping. 
+* I'm lucky to have a geographically-dispersed family: a grandmother in Mexico and cousins who I'm very close with in Paris and New York. We're similar ages so as we grew up I visited them in Atlanta when we were in high school and New Orleans when we were in college. I'm going to South Africa with them in August so I'm reading lots of books by South African authors.
+* Now I can definitely add to my list building fun side projects. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C++ for a VR and AR project. 
