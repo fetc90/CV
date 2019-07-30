@@ -8,7 +8,7 @@ L O V E &nbsp; O F &nbsp; T E C H
 
 The most amazing and surprising discovery I have experienced through tech is reconnecting to all my old loves. When I told my mum I wanted to learn how to programme, she replied, "Well that makes complete sense considering how much you loved computer games."
 
-I forgot how much I loved RTS games (Age of Empires II, Dungeon Keeper, Tropico); it was deeply satifying to build something up methodically and see that creation in action.
+I forgot how much I loved computer games - it was deeply satifying to build something up methodically (an empire, a city, a themepark) and see that creation in action.
 
 I have always loved cartoons and animations and I can't wait to build my first AR app as a fun side project. 
  
@@ -98,8 +98,7 @@ We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was 
 # E D U C A T I O N
 
 #### Makers Academy (April '19 to July '19)
-
-
+[Blog of Select Maker's Moments](https://medium.com/@fetc)
 
 T E S T I N G
 
