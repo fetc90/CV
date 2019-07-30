@@ -116,19 +116,17 @@ P R O C E S S
 - Clean code (DRY) with Single Responsibility Programming (SRP). Use of linters. 
 - Learning a new language / programme fast: Ruby, Ruby on Rails and Javascript. Front-end styling with CSS and HTML5.
 - Databases: PostgreSQL, Datamapper, ActiveRecord.
-- Experience
-- Achievements
-- Evidence
+
 
 T E A M W O R K
 
-Working as a team using agile and XP practises:
- - Specifications —> User stories —> Tickets.
- - Planning: Object relational mapping (ORM).
+Working as a team using agile practises:
  - Pair programming and mobbing.
  - Regular stand-ups and retros for group projects. 
- - Documenting process. 
+ - Documenting team process.
  - Project collaboration on Github. 
+
+ ---
 
 <!-- If I want to do drop downs --------------- -->
 
@@ -160,16 +158,18 @@ Working as a team using agile and XP practises:
 
 #### University of Sussex (Sep '10 to May '14)
 
+
 H U M A N &nbsp; R I G H T S
 
-**Human Rights MA (Merit)**
+*Master's Degree (Merit)*
 
-I based my dissertation on women in prisons in the UK. I interviewed prison staff across the board, including male and female officers, a counsellor from the sexual offenders ward, a nurse and the prison warden. The research was engrossing and that whole experience was  the most rewarding I had at university. After doing this I have known that I want to volunteer as a teacher in prisons in the future, either teaching creative writing or an introduction to programming. 
+I based my dissertation on women in prisons in the UK. I interviewed prison staff across the board, including male and female officers, a counsellor from the sexual offenders ward, a nurse and the prison warden. The research was engrossing and the experience was the most rewarding I had at university. Because of this, one day I would like to volunteer as a teacher in prisons, teaching either creative writing or computer programming. 
+ 
+E N G L I S H &nbsp; L I T E R A T U R E &nbsp; & &nbsp; A R T &nbsp; H I S T O R Y
 
+*Bachelor of Arts (2:1)*
 
-**English Literature and History of Art BA (Hons) 2:1**
-
-I learnt the invaluable lesson of how not to write. I loved reading novels and studying emotive (and some not so emotive) pieces of art. The only trouble was I was also reading a lot of critical art and literature essays, which meant I started imitating them in my own writing. It was not effective. What point was I trying to make? Who knows, you've fallen down my Alice in Wonderland tunnel of a sentence. You want the readers on your side. You also want to know exactly what you're talking about. Sure, obvious now, but it takes a couple of years of waffle to fully comprehend how little sense you’re making. 
+During my BA, I learnt the invaluable lesson of how not to write. I loved reading novels and studying emotive (and some not so emotive) pieces of art, at the same time I was reading a lot of critical essays on literature and art – and unfortunately I started imitating those essays in my own writing. It was not effective. What point was I trying to make? Who knows, you've fallen down my Alice-in-Wonderland-tunnel of a sentence. You want the readers on your side. You also want to know exactly what you're talking about. Sure, obvious now, but it takes a couple of years of waffle to fully comprehend how little sense you’re making. 
 
 
 
@@ -210,4 +210,4 @@ I like taking photos but I forgot how much I loved painting - wanting to have a 
 I got very into cycling; I cycled from Milan to Barcelona in two weeks, staying in eco-villages and camping.
 
 
-Now I can add building fun side projects to my list. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C++ for an AR project.
+Now I can add building fun side projects to my list. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C# for an AR project.
