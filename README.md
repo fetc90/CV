@@ -97,7 +97,7 @@ We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was 
 
 # E D U C A T I O N
 
-#### Makers Academy (April '19 to July '19)
+**Makers Academy (April '19 to July '19)** <br>
 [Blog of Select Maker's Moments](https://medium.com/@fetc)
 
 T E S T I N G
@@ -156,15 +156,11 @@ Working as a team using agile practises:
 #### University of Sussex (Sep '10 to May '14)
 
 
-H U M A N &nbsp; R I G H T S
-
-*Master's Degree (Merit)*
+H U M A N &nbsp; R I G H T S &nbsp;*Master's Degree (Merit)*
 
 I based my dissertation on women in prisons in the UK. I interviewed prison staff across the board, including male and female officers, a counsellor from the sexual offenders ward, a nurse and the prison warden. The research was engrossing and the experience was the most rewarding I had at university. Because of this, one day I would like to volunteer as a teacher in prisons, teaching either creative writing or computer programming. 
  
-E N G L I S H &nbsp; L I T E R A T U R E &nbsp; & &nbsp; A R T &nbsp; H I S T O R Y
-
-*Bachelor of Arts (2:1)*
+E N G L I S H &nbsp; L I T E R A T U R E &nbsp; & &nbsp; A R T &nbsp; H I S T O R Y &nbsp;*Bachelor of Arts (2:1)*
 
 During my BA, I learnt the invaluable lesson of how not to write. I loved reading novels and studying emotive (and some not so emotive) pieces of art, at the same time I was reading a lot of critical essays on literature and art – and unfortunately I started imitating those essays in my own writing. It was not effective. What point was I trying to make? Who knows, you've fallen down my Alice-in-Wonderland-tunnel of a sentence. You want the readers on your side. You also want to know exactly what you're talking about. Sure, obvious now, but it takes a couple of years of waffle to fully comprehend how little sense you’re making. 
 
