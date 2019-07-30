@@ -1,10 +1,10 @@
-# FRANCESCA CHATER 
+# F R A N C E S C A &nbsp; C H A T E R 
 
 I am a Junior Developer looking for my first job to learn all sorts of exciting new things. One of the best things I have taken from Maker's Academy is if I can learn one thing, I can learn another.
 
 # S K I L L S
 
-L O V E _ O F _ T E C H 
+L O V E &nbsp; O F &nbsp; T E C H 
 
 The most amazing and surprising discovery I have experienced through tech is reconnecting to all my old loves. When I told my mum I wanted to learn how to programme, she replied, "Well that makes complete sense considering how much you loved computer games."
 
@@ -17,7 +17,6 @@ I have always loved cartoons and animations and I can't wait to build my first A
 
 Below are my favourite projects from my time at Makers.
 
----
 
 P R O J E C T 🌵 D E E P R O O T
 <br>
@@ -37,6 +36,7 @@ Building something with code that took live readings from a real, living thing w
 <p> 
 
 ![touchscreen](images/touchscreen.png)
+
 <p>
 
 </details>
@@ -92,9 +92,15 @@ Finally, an app for aliens to communicate with their friends.*
 
 We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was one of the most challenging parts of the project; all our tests were passing on Travis but the build wasn't deploying. As we were so new to both systems we weren't sure why the connection broke down. But you'll be relieved to know we fixed it. It was such a relief I felt compelled to [write about it](https://medium.com/@spacebook3000/fixing-heroku-by-francesca-b1d2e5a9e1ec). <br>
 
-*NASA verfied.
+*_NASA verfied._
 
-----
+
+
+
+# E D U C A T I O N
+
+#### Makers Academy (April '19 to July '19)
+
 
 
 T E S T I N G
@@ -124,16 +130,9 @@ Working as a team using agile and XP practises:
  - Documenting process. 
  - Project collaboration on Github. 
 
+<!-- If I want to do drop downs --------------- -->
 
-# E D U C A T I O N
-
-#### Makers Academy (April '19 to July '19)
-
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-
-<details><summary>Test Driven Development (TDD).</summary>
+<!-- <details><summary>Test Driven Development (TDD).</summary>
 <p> 
 
 ![lights](images/lights.gif)
@@ -155,35 +154,28 @@ Working as a team using agile and XP practises:
 ![lights](images/lights.gif)
 <p>
 
-</details>
+</details> -->
 
------
+<!-- If I want to do drop downs --------------- -->
 
 #### University of Sussex (Sep '10 to May '14)
 
-*Human Rights MA (Merit)*
+H U M A N &nbsp; R I G H T S
 
-<details><summary>Best thing I took from it?</summary>
-<p> 
+**Human Rights MA (Merit)**
 
 I based my dissertation on women in prisons in the UK. I interviewed prison staff across the board, including male and female officers, a counsellor from the sexual offenders ward, a nurse and the prison warden. The research was engrossing and that whole experience was  the most rewarding I had at university. After doing this I have known that I want to volunteer as a teacher in prisons in the future, either teaching creative writing or an introduction to programming. 
-<p>
 
-</details>
 
-*English Literature and History of Art BA (Hons) 2:1*
+**English Literature and History of Art BA (Hons) 2:1**
 
-<details><summary>Best thing I took from it?</summary>
-<p> 
 I learnt the invaluable lesson of how not to write. I loved reading novels and studying emotive (and some not so emotive) pieces of art. The only trouble was I was also reading a lot of critical art and literature essays, which meant I started imitating them in my own writing. It was not effective. What point was I trying to make? Who knows, you've fallen down my Alice in Wonderland tunnel of a sentence. You want the readers on your side. You also want to know exactly what you're talking about. Sure, obvious now, but it takes a couple of years of waffle to fully comprehend how little sense you’re making. 
-<p>
 
-</details>
 
 
 # E X P E R I E N C E
 
-Previous work experience in managing brand communication campaigns and publicity campaigns. Skills in copywriting, photo editing, CRM databases,Facebook acquisition and Google Analytics.
+Previous work experience in managing brand communication campaigns and publicity campaigns. Skills in pitching to press, copywriting, photo editing, CRM databases,Facebook acquisition and Google Analytics.
 
 **Sport Heroes Group** (May '17 to December '18)    
 *UK Content and Community Lead*
@@ -199,16 +191,23 @@ Previous work experience in managing brand communication campaigns and publicity
 **tpr Media Consultants** (August '15 to April '17)   
 *Account Manager*  
 
-- tpr is a PR company focusing on film and televison releases. Though I started more on the content side of things (gathering press materials and writing releases), I found to my great surprise that I gravitated towards the accounts. I also quickly became the token 'IT guy' of the office. 
+tpr is a PR company focusing on film and televison releases. Though I started more on the content side of things (gathering press materials and writing releases), I found to my great surprise that I gravitated towards the accounts. I also quickly became the token 'IT guy' of the office. 
 
 **YPlan** (October '14 to June '15)   
 *Content Producer*
 
-- This was my first expereince working with software developers. My role was to write content and edit images that would engage the users. Every week, there was a meeting with all the staff members about what could be done to improve the app and I could listen to the developers talk about what they had acheived.
+This was my first expereince working with software developers. My role was to write content and edit images that would engage the users. Every week, there was a meeting with all the staff members about what could be done to improve the app and I could listen to the developers talk about what they had acheived.
 
 # H O B B I E S
 
-* I like art, I go to an exhibtion on Sunday afternoons because it takes you to a different part of your brain and you remember how much other stuff is out there. One of the most amazing exhibitions I went to was Marshmellow Laser Feast, We Live in an Ocean of Air. I had never seen art and technology combined like that and seeing that sparked a huge interest in VR and AR I'd never had before.
-* I like taking photos but I forgot how much I loved painting - wanting to have a break from coding meant that I bought a sketch pad and paints again.
-* I got very into cycling; I cycled from Milan to Barcelona in two weeks, staying at eco-villages and camping.
-* Now I can add building fun side projects to my list. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C++ for an AR project.
+
+I love going to art exhibitions, one of the most amazing exhibitions I went to was Marshmellow Laser Feast, _We Live in an Ocean of Air_. I had never seen art and technology combined like that and seeing that sparked a huge interest in VR and AR I'd never had before. I'm a member of the Tate Modern and the two recent exhibitions - Takis and Olafur Eliasson - have been my favourite ones I've seen there in a long time.
+
+
+I like taking photos but I forgot how much I loved painting - wanting to have a break from coding meant that I bought a sketch pad and paints again.
+
+
+I got very into cycling; I cycled from Milan to Barcelona in two weeks, staying in eco-villages and camping.
+
+
+Now I can add building fun side projects to my list. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C++ for an AR project.
