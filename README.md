@@ -1,9 +1,11 @@
-# F R A N C E S C A &nbsp; C H A T E R 
+# Francesca Chater
 
 I am a Junior Developer looking for my first job to learn all sorts of exciting new things. One of the best things I have taken from Maker's Academy is if I can learn one thing, I can learn another.
+<br>
+<br>
 
-# S K I L L S
-
+## Skills
+---
 L O V E &nbsp; O F &nbsp; T E C H 
 
 The most amazing and surprising discovery I have experienced through tech is reconnecting to all my old loves. When I told my mum I wanted to learn how to programme, she replied, "Well that makes complete sense considering how much you loved computer games."
@@ -95,7 +97,8 @@ We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was 
 
 
 
-# E D U C A T I O N
+## Education
+---
 
 **Makers Academy (April '19 to July '19)** <br>
 [Blog of Select Maker's Moments](https://medium.com/@fetc)
@@ -166,9 +169,9 @@ During my BA, I learnt the invaluable lesson of how not to write. I loved readin
 
 
 
-# E X P E R I E N C E
-
-Previous work experience in managing brand communication campaigns and publicity campaigns. Skills in pitching to press, copywriting, photo editing, CRM databases,Facebook acquisition and Google Analytics.
+## Experience
+---
+Previous work experience in managing brand communication campaigns and publicity campaigns. Skills in pitching to press, copywriting, photo editing, CRM databases, Facebook acquisition and Google Analytics.
 
 **Sport Heroes Group** (May '17 to December '18)    
 *UK Content and Community Lead*
@@ -191,7 +194,8 @@ tpr is a PR company focusing on film and televison releases. Though I started mo
 
 This was my first expereince working with software developers. My role was to write content and edit images that would engage the users. Every week, there was a meeting with all the staff members about what could be done to improve the app and I could listen to the developers talk about what they had acheived.
 
-# H O B B I E S
+## Hobbies
+---
 
 
 I love going to art exhibitions, one of the most amazing exhibitions I went to was Marshmellow Laser Feast, _We Live in an Ocean of Air_. I had never seen art and technology combined like that and seeing that sparked a huge interest in VR and AR I'd never had before. I'm a member of the Tate Modern and the two recent exhibitions - Takis and Olafur Eliasson - have been my favourite ones I've seen there in a long time.
