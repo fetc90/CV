@@ -13,8 +13,6 @@ I forgot how much I loved RTS games (Age of Empires II, Dungeon Keeper, Tropico)
 I have always loved cartoons and animations and I can't wait to build my first AR app as a fun side project. 
  
 
- It's odd that doing something supposedly "serious" has made me think with more creativity and energy than I have since I was in primary school. I guess it's because I haven't felt this child-like excitement about something in a long time. 
-
 Below are my favourite projects from my time at Makers.
 
 
