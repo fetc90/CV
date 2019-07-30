@@ -202,5 +202,4 @@ I like taking photos but I forgot how much I loved painting - wanting to have a 
 
 I got very into cycling; I cycled from Milan to Barcelona in two weeks, staying in eco-villages and camping.
 
-
-Now I can add building fun side projects to my list. I've got an arduino board and some programmable lights. I am also getting to grips with Unity and C# for an AR project.
+I work a shift at The Green Note in Camden once a week. This hodge-podge-living-room of a music venue is one of Time Out's favourites, and some really whacky, wonderful bands play there.
