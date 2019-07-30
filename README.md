@@ -170,7 +170,14 @@ During my BA, I learnt the invaluable lesson of how not to write. I loved readin
 
 ## Experience
 
-Previous work experience in managing brand communication campaigns and publicity campaigns. Skills in pitching to press, copywriting, photo editing, CRM databases, Facebook acquisition and Google Analytics.
+I come from a PR and marketing background with experience in managing brand and publicity campaigns. There was lots of pitching to press, copywriting, photo editing, using CRM databases, building Facebook ads and writing reports from Google Analytics. 
+
+My favourite part of my previous job was writing the weekly newsletter about running which was sent out to an audience of 100,000. I greatly enjoyed the challenge of trying to find quirky or original stories about running - or if I couldn't find any - write about them in a way that I found amusing.
+
+
+<details><summary>UK Content and Community Lead at Sport Heroes Group (May '17 to December '18) </summary>
+<p> 
+
 
 **Sport Heroes Group** (May '17 to December '18)    
 *UK Content and Community Lead*
@@ -179,19 +186,44 @@ Previous work experience in managing brand communication campaigns and publicity
 - Writing campaign reports outlining the communication strategy, metrics and evaluation. Data gathered from Google Analytics, social media analytics, Intercom and Mailjet.
 - Working with the business development team to build new and maintain current relationships with clients, to then go on to lead their communication campaigns.
 - Coordinating content production; outsourcing and managing a team of five content writers and deciding on topics of discussion. Reader engagement tripled from February to June 2018 and has remained consistent at 3,000 readers.
-- Researching topics of that week to create the weekly newsletters, ranging from news in the running world, science, lifestyle or nutrition, reaching an audience of 70,000 with a 20% open rate.  
+- Researching topics of that week to create the weekly newsletters, ranging from news in the running world, science, lifestyle or nutrition, reaching an audience of 100,000 with a 20% open rate.  
 - Managing the social media accounts for Running Heroes and Cycling Heroes, across Facebook (26,000+ followers), Twitter (3500+ followers) and Instagram (1300+ followers).
 - Hosting monthly social community runs of 50 people. The UK team had a record turn-out compared to French and Australian Sport Heroes teams, who both had a turn-out of 20.
+<br>
+
+<p>
+
+</details>
+
+<details><summary>Account Manager at tpr Media Consultants (August '15 to April '17)</summary>
+<p> 
 
 **tpr Media Consultants** (August '15 to April '17)   
 *Account Manager*  
 
-tpr is a PR company focusing on film and televison releases. Though I started more on the content side of things (gathering press materials and writing releases), I found to my great surprise that I gravitated towards the accounts. I also quickly became the token 'IT guy' of the office. 
+A PR company that promoted mainly documentaries, e.g. *The Killing Fields of Sri Lanka* or *Last Whites of the East End* (we tended to promote things with a social angle), but then expanded to help promote causes, such as *Justice for Health*: the Junior Doctors who took Jeremy Hunt to court proteseting unsafe working contracts. 
+
+I pitched to press across all the boards - newspaper, radio, television - and helped write press campaigns from start to finish.
+
+I also quickly became the token 'IT guy' of the office. 
+<p>
+
+</details>
+
+
+
+<details><summary>Content Producer at YPlan (October '14 to June '15)</summary>
+<p> 
 
 **YPlan** (October '14 to June '15)   
 *Content Producer*
 
-This was my first expereince working with software developers. My role was to write content and edit images that would engage the users. Every week, there was a meeting with all the staff members about what could be done to improve the app and I could listen to the developers talk about what they had acheived.
+This was my first expereince working with software developers. My role was to write content and edit images that would engage the users. Every week, there was a meeting with all the staff members about what could be done to improve the app and I could listen to the developers talk about what they had acheived. Unbeknownst to me, my experience at YPlan planted the seed to one day become a developer; they had all the secrets.
+<p>
+
+</details>
+
+
 
 ## Hobbies
 
