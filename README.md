@@ -10,8 +10,8 @@ Having just graduated from the coding school, Makers, I am looking for a role wh
 _[Project Github](https://github.com/breycarr/deep_root)_ <br>
 [Video Presentation](https://www.facebook.com/MakersAcademy/videos/1335893893240030/?t=1034) 
 
-For the final project, our team built a plant health monitoring system. We used all new software and we had never used any of the hardware before. 
-Building something with code that took live readings from a real, living thing was such an incredible feeling. I loved combining code with something that is quintessentially the complete opposite of technology.
+For the final project at Makers, our team built a plant health monitoring system. We used new software and hardware which we picked up during the two-week time frame. 
+Building something with code that took live readings from a real, living thing was a great way to end the course. We experimented with different MVPs:
 
 <details><summary>We want lights!</summary>
 <p> 
@@ -29,7 +29,8 @@ Building something with code that took live readings from a real, living thing w
 
 </details>
 
-We documented any particularly exciting moments in our shared team [blog](https://medium.com/@makers_c_a_c_t_u_s). For example, we had never tested hardware before. If something doesn't work how you thought it would - a light doesn't turn on or the touch screen stops working after you merge everything - how do you fix that? After quickly suppressing mild panic, we were able to fix these issues in the same way we would fix bugs in our code. We eradicated possibilities by confirming parts we knew were working and got visibility in our code to ensure all our code was being reached. For more details, [here](https://medium.com/@makers_c_a_c_t_u_s/how-do-you-tdd-hardware-25f62da9aa) is how we discovered why our light wasn't turning on. As our first hardware bug, it was very exciting when we located the problem.
+We documented any particularly exciting moments in our shared [team blog](https://medium.com/@makers_c_a_c_t_u_s). For example, we had never tested hardware before. If something doesn't work how you thought it would - a light doesn't turn on or the touch screen stops working after you merge everything - how do you fix that? After quickly suppressing mild panic, we were able to fix these issues in the same way we would fix bugs in our code. We eradicated possibilities by confirming parts we knew were working and got visibility in our code to ensure all our code was being reached. We were then able to spot that we had referenced the wrong pin number of the raspberry pi in our code. As this was our first hardware bug, it was very exciting when we located the problem.<br>
+[Debugging Hardware Post](https://medium.com/@makers_c_a_c_t_u_s/how-do-you-tdd-hardware-25f62da9aa) 
 
 -----
 S P A C E B O O K
@@ -38,10 +39,10 @@ _[Project Github](https://github.com/fetc90/acebook-spacebook)_
 <br>
 _[Live App](https://acebook-spacebook.herokuapp.com/)_
 
-Finally, an app for aliens to communicate with their friends.*
+Finally, an app for aliens to communicate with their friends.* This project was the first time we got to play around and experiment with the appearance of an app.
 
  <!-- DROP DOWN SECTION ------- -->
-<details><summary> Aliens can sign up and login. </summary>
+<!-- <details><summary> Aliens can sign up and login. </summary>
 <p> 
 
 
@@ -71,11 +72,12 @@ Finally, an app for aliens to communicate with their friends.*
 ![dance](images/dance.gif)
 <p>
 
-</details>
+</details> -->
 
  <!-- DROP DOWN SECTION ENDS------- -->
 
-We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was one of the most challenging parts of the project; all our tests were passing on Travis but the build wasn't deploying. As we were so new to both systems we weren't sure why the connection broke down. But you'll be relieved to know we fixed it. It was such a relief I felt compelled to [write about it](https://medium.com/@spacebook3000/fixing-heroku-by-francesca-b1d2e5a9e1ec). <br>
+We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was one of the most challenging parts of the project; all our tests were passing on Travis but the build wasn't deploying. I discovered that there are two different Travis platforms, travis.com and travis.org. As there are two, it matters how you create an encrypted authentication token which was causing the issue.
+<br>[Fixing Travis Post](https://medium.com/@spacebook3000/fixing-heroku-by-francesca-b1d2e5a9e1ec) <br>
 
 *_NASA verfied._
 
@@ -87,23 +89,21 @@ We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was 
 **Makers Academy (April '19 to July '19)** <br>
 [Blog of Select Maker's Moments](https://medium.com/@fetc)
 
-T E S T I N G
 
+Testing
 - Test Driven Development (TDD) in RSpec, Jasmin and Cabybara. 
 - High test code coverage ( > 95%) and code maintainability.
 - Continuous Integration: Travis CI to Heroku.
 
 
-P R O C E S S
-
+Process
 - Object Orientated Programming (OOP). 
 - Clean code (DRY) with Single Responsibility Programming (SRP). Use of linters. 
-- Learning a new language / programme fast: Ruby, Ruby on Rails and Javascript. Front-end styling with CSS and HTML5.
+- Learning a new language / programme fast: Ruby, Ruby on Rails and Javascript. Front-end styling with CSS and HTML5. 
 - Practise with databases: PostgreSQL, Datamapper, ActiveRecord.
 
 
-T E A M W O R K
-
+Teamwork
  - Daily pair programming.
  - Regular stand-ups and retros for group projects. 
  - Documenting team process with tickets (Trello) and group reflection (Github wiki).
