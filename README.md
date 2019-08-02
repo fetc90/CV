@@ -1,25 +1,14 @@
 # Francesca Chater
 
-I am a Junior Developer looking for my first job to learn all sorts of exciting new things. One of the best things I have taken from Maker's Academy is if I can learn one thing, I can learn another.
+Having just graduated from the coding school, Makers, I am looking for a role where I can continue to train as a full-stack developer with the chance to flex a creative muscle.
+
+## Projects
 
 
-## Skills
-
-L O V E &nbsp; O F &nbsp; T E C H 
-
-The most amazing and surprising discovery I have experienced through tech is reconnecting to all my old loves. When I told my mum I wanted to learn how to programme, she replied, "Well that makes complete sense considering how much you loved computer games."
-
-I forgot how much I loved computer games - it was deeply satifying to build something up methodically (an empire, a city, a themepark) and see that creation in action.
-
-I have always loved cartoons and animations and I can't wait to build my first AR app as a fun side project. 
- 
-
-Below are my favourite projects from my time at Makers.
-
-
-P R O J E C T 🌵 D E E P R O O T
+ D E E P R O O T
 <br>
-_[Project Github](https://github.com/breycarr/deep_root)_
+_[Project Github](https://github.com/breycarr/deep_root)_ <br>
+[Video Presentation](https://www.facebook.com/MakersAcademy/videos/1335893893240030/?t=1034) 
 
 For the final project, our team built a plant health monitoring system. We used all new software and we had never used any of the hardware before. 
 Building something with code that took live readings from a real, living thing was such an incredible feeling. I loved combining code with something that is quintessentially the complete opposite of technology.
@@ -39,9 +28,6 @@ Building something with code that took live readings from a real, living thing w
 <p>
 
 </details>
-
-[Video Presentation](https://en-gb.facebook.com/MakersAcademy/videos/1335893893240030) 
-<br> 17:17 Project Deeproot
 
 We documented any particularly exciting moments in our shared team [blog](https://medium.com/@makers_c_a_c_t_u_s). For example, we had never tested hardware before. If something doesn't work how you thought it would - a light doesn't turn on or the touch screen stops working after you merge everything - how do you fix that? After quickly suppressing mild panic, we were able to fix these issues in the same way we would fix bugs in our code. We eradicated possibilities by confirming parts we knew were working and got visibility in our code to ensure all our code was being reached. For more details, [here](https://medium.com/@makers_c_a_c_t_u_s/how-do-you-tdd-hardware-25f62da9aa) is how we discovered why our light wasn't turning on. As our first hardware bug, it was very exciting when we located the problem.
 
@@ -113,15 +99,14 @@ P R O C E S S
 - Object Orientated Programming (OOP). 
 - Clean code (DRY) with Single Responsibility Programming (SRP). Use of linters. 
 - Learning a new language / programme fast: Ruby, Ruby on Rails and Javascript. Front-end styling with CSS and HTML5.
-- Databases: PostgreSQL, Datamapper, ActiveRecord.
+- Practise with databases: PostgreSQL, Datamapper, ActiveRecord.
 
 
 T E A M W O R K
 
-Working as a team using agile practises:
- - Pair programming and mobbing.
+ - Daily pair programming.
  - Regular stand-ups and retros for group projects. 
- - Documenting team process.
+ - Documenting team process with tickets (Trello) and group reflection (Github wiki).
  - Project collaboration on Github. 
 
 
@@ -154,15 +139,15 @@ Working as a team using agile practises:
 
 <!-- If I want to do drop downs --------------- -->
 
----
+
 #### University of Sussex (Sep '10 to May '14)
 
 
-H U M A N &nbsp; R I G H T S &nbsp;*Master's Degree (Merit)*
+Human Rights MA *(Merit)*
 
 I based my dissertation on women in prisons in the UK. I interviewed prison staff across the board, including male and female officers, a counsellor from the sexual offenders ward, a nurse and the prison warden. The research was engrossing and the experience was the most rewarding I had at university. Because of this, one day I would like to volunteer as a teacher in prisons, teaching either creative writing or computer programming. 
  
-E N G L I S H &nbsp; L I T E R A T U R E &nbsp; & &nbsp; A R T &nbsp; H I S T O R Y &nbsp;*Bachelor of Arts (2:1)*
+English Literature and Art History BA *(2:1)*
 
 During my BA, I learnt the invaluable lesson of how not to write. I loved reading novels and studying emotive (and some not so emotive) pieces of art, at the same time I was reading a lot of critical essays on literature and art – and unfortunately I started imitating those essays in my own writing. It was not effective. What point was I trying to make? Who knows, you've fallen down my Alice-in-Wonderland-tunnel of a sentence. You want the readers on your side. You also want to know exactly what you're talking about. Sure, obvious now, but it takes a couple of years of waffle to fully comprehend how little sense you’re making. 
 
@@ -228,12 +213,12 @@ This was my first expereince working with software developers. My role was to wr
 ## Hobbies
 
 
-I love going to art exhibitions, one of the most amazing exhibitions I went to was Marshmellow Laser Feast, _We Live in an Ocean of Air_. I had never seen art and technology combined like that and seeing that sparked a huge interest in VR and AR I'd never had before. I'm a member of the Tate Modern and the two recent exhibitions - Takis and Olafur Eliasson - have been my favourite ones I've seen there in a long time.
+I love going to art exhibitions, one of the most things I saw was an VR exhibition by Marshmellow Laser Feast called _We Live in an Ocean of Air_. I had never seen art and technology combined like that it sparked a huge interest in VR and AR.
 
 
-I like taking photos but I forgot how much I loved painting - wanting to have a break from coding meant that I bought a sketch pad and paints again.
+I like taking photos but I forgot how much I loved painting - wanting to have a break from coding meant that I bought a sketch pad and paints again after years of not touching either.
 
 
-I got very into cycling; I cycled from Milan to Barcelona in two weeks, staying in eco-villages and camping.
+I got very into cycling; I cycled from Milan to Barcelona in two weeks, staying in eco-communities and camping.
 
-I work a shift at The Green Note in Camden once a week. This hodge-podge-living-room of a music venue is one of Time Out's favourites, and some really whacky, wonderful bands play there.
+I work as a supervisor behind the bar at the music venue, _The Green Note_, once a week. This hodge-podge-living-room of a music venue is one of Time Out's favourites, and some really whacky, wonderful bands play there.
