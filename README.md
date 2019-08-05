@@ -1,16 +1,28 @@
 # Francesca Chater
 
-Having just graduated from the coding school, Makers, I am looking for a role where I can continue to train as a full-stack developer with the chance to flex a creative muscle.
+I have just graduated from _Makers_, London's top software development programme, and I am looking for a role where I can continue to train as a full-stack developer.
+
+
 
 ## Projects
 
 
+**Personal Projects**<br>
+Since graduating, I have been keen to use Unity and C# to build an AR app. 
+I started with a Fireworks simulation and have made an AR palm tree app.
+
+[Building with Unity Blog](https://medium.com/@fetc/unity-universe-40674d850652) <br>
+[Fireworks Github](https://github.com/fetc90/fireworks) <br>
+[Palm Tree Github](https://github.com/fetc90/palm-tree) <br>
+
+**Group Projects**
+<br>
  D E E P R O O T
 <br>
 _[Project Github](https://github.com/breycarr/deep_root)_ <br>
 [Video Presentation](https://www.facebook.com/MakersAcademy/videos/1335893893240030/?t=1034) 
 
-For the final project at Makers, our team built a plant health monitoring system. We used new software and hardware which we picked up during the two-week time frame. 
+For the final project at Makers, our team built a plant health monitoring system in ten days. We used new software and hardware which we picked up during the two-week time frame. 
 Building something with code that took live readings from a real, living thing was a great way to end the course. We experimented with different MVPs:
 
 <details><summary>We want lights!</summary>
@@ -80,9 +92,6 @@ We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was 
 <br>[Fixing Travis Post](https://medium.com/@spacebook3000/fixing-heroku-by-francesca-b1d2e5a9e1ec) <br>
 
 *_NASA verfied._
-
-
-
 
 ## Education
 
