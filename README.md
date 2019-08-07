@@ -1,8 +1,6 @@
 # Francesca Chater
 
-I have just graduated from _Makers_, London's top software development programme, and I am looking for a role where I can continue to train as a full-stack developer.
-
-
+I come from a PR and marketing background. I love writing so hugely enjoyed that aspect of my work but the marketing route was starting to incorporate a lot of social media management which wasn’t for me. I had worked for two apps and the developers were my favourite people, they knew what could or couldn’t be done and how to build it. One of my tasks in my previous job was to write the weekly newsletter. I was given a HTML template to play with in Dreamweaver which quickly became my favourite part of the job. So I took the plunge, quit my job, and did an intensive coding course at _Makers_. 
 
 ## Projects
 
