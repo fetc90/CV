@@ -1,17 +1,20 @@
 # Francesca Chater
 
-I come from a PR and marketing background. I love writing so hugely enjoyed that aspect of my work but the marketing route was starting to incorporate a lot of social media management which wasn’t for me. I had worked for two apps and the developers were my favourite people, they knew what could or couldn’t be done and how to build it. One of my tasks in my previous job was to write the weekly newsletter. I was given a HTML template to play with in Dreamweaver which quickly became my favourite part of the job. So I took the plunge, quit my job, and did an intensive coding course at _Makers_. 
+I come from a PR and marketing background. I love writing so hugely enjoyed that aspect of my work but the marketing route wasn’t for me. I had worked for two apps and the developers were my favourite people, they knew what could or couldn’t be done and how to build it. One of the tasks in my previous job was to write the weekly newsletter. I was given a HTML template to play with in Dreamweaver which quickly became my favourite part of the job. So I took the plunge, quit my job, and did an intensive coding course at Makers. 
+
+During my time at Makers, and since, I have hugely enjoyed problem-solving as it has made me more creative than I can remember. Instead of believing something can’t be done, it’s hugely fun to find what can be done and incorporate those solutions to a project.   
 
 ## Projects
 
 
 **Personal Projects**<br>
-Since graduating, I have been keen to use Unity and C# to build an AR app. 
-I started with a Fireworks simulation and have made an AR palm tree app.
+After graduating, I was keen to use Unity and C# to build an AR app. I made a Fireworks simulation in Unity to see how C# interacted with 3D objects and an AR palm tree app in Vuforia.
 
 [Building with Unity Blog](https://medium.com/@fetc/unity-universe-40674d850652) <br>
 [Fireworks Github](https://github.com/fetc90/fireworks) <br>
 [Palm Tree Github](https://github.com/fetc90/palm-tree) <br>
+
+I am currently working through the online Tyler McGinnis course to “master the JavaScript Ecosystem”, to build my first app in React.
 
 **Group Projects**
 <br>
@@ -19,9 +22,9 @@ I started with a Fireworks simulation and have made an AR palm tree app.
 <br>
 _[Project Github](https://github.com/breycarr/deep_root)_ <br>
 [Video Presentation](https://www.facebook.com/MakersAcademy/videos/1335893893240030/?t=1034) 
+[Team Blog](https://medium.com/@makers_c_a_c_t_u_s)
 
-For the final project at Makers, our team built a plant health monitoring system in ten days. We used new software and hardware which we picked up during the two-week time frame. 
-Building something with code that took live readings from a real, living thing was a great way to end the course. We experimented with different MVPs:
+For the final project at Makers, our team built a plant health monitoring system in ten days. We used new software and hardware, taking readings from the moisture in the soil via a sensor, and showcasing the data on a real-time graph on a touchscreen attached to a raspberry pi.
 
 <details><summary>We want lights!</summary>
 <p> 
@@ -39,17 +42,15 @@ Building something with code that took live readings from a real, living thing w
 
 </details>
 
-We documented any particularly exciting moments in our shared [team blog](https://medium.com/@makers_c_a_c_t_u_s). For example, we had never tested hardware before. If something doesn't work how you thought it would - a light doesn't turn on or the touch screen stops working after you merge everything - how do you fix that? After quickly suppressing mild panic, we were able to fix these issues in the same way we would fix bugs in our code. We eradicated possibilities by confirming parts we knew were working and got visibility in our code to ensure all our code was being reached. We were then able to spot that we had referenced the wrong pin number of the raspberry pi in our code. As this was our first hardware bug, it was very exciting when we located the problem.<br>
-[Debugging Hardware Post](https://medium.com/@makers_c_a_c_t_u_s/how-do-you-tdd-hardware-25f62da9aa) 
-
 -----
 S P A C E B O O K
 <br>
 _[Project Github](https://github.com/fetc90/acebook-spacebook)_
 <br>
-_[Live App](https://acebook-spacebook.herokuapp.com/)_
+_[Live App](https://acebook-spacebook.herokuapp.com/)_ <br>
+_[Fixing Travis Blog Post](https://medium.com/@spacebook3000/fixing-heroku-by-francesca-b1d2e5a9e1ec)_
 
-Finally, an app for aliens to communicate with their friends.* This project was the first time we got to play around and experiment with the appearance of an app.
+Finally, an app for aliens to communicate with their friends.
 
  <!-- DROP DOWN SECTION ------- -->
 <!-- <details><summary> Aliens can sign up and login. </summary>
@@ -87,9 +88,7 @@ Finally, an app for aliens to communicate with their friends.* This project was 
  <!-- DROP DOWN SECTION ENDS------- -->
 
 We deployed Spacebook automatically to Heroku with Travis CI. Setting it up was one of the most challenging parts of the project; all our tests were passing on Travis but the build wasn't deploying. I discovered that there are two different Travis platforms, travis.com and travis.org. As there are two, it matters how you create an encrypted authentication token which was causing the issue.
-<br>[Fixing Travis Post](https://medium.com/@spacebook3000/fixing-heroku-by-francesca-b1d2e5a9e1ec) <br>
 
-*_NASA verfied._
 
 ## Education
 
