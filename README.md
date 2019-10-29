@@ -1,6 +1,6 @@
 # Francesca Chater
 
-I come from a PR and marketing background. I love writing so hugely enjoyed that aspect of my work but the marketing route wasn’t for me. I had worked for two apps and the developers were my favourite people, they knew what could or couldn’t be done and how to build it. One of the tasks in my previous job was to write the weekly newsletter. I was given a HTML template to play with in Dreamweaver which quickly became my favourite part of the job. So I took the plunge, quit my job, and did an intensive coding course at Makers. 
+I am a software engineer with a background in marketing and PR. During my previous role, I got to play around with some code by chance and was immediately drawn in by the challenge of the logic. The more I practised, I saw how creative writing code could be and I was hooked. So I took the plunge, quit everything, and retrained in software development at Makers Academy, a highly selective coding Bootcamp.
 
 During my time at Makers, and since, I have hugely enjoyed problem-solving as it has made me more creative than I can remember. Instead of believing something can’t be done, it’s hugely fun to find what can be done and incorporate those solutions to a project.   
 
@@ -14,7 +14,7 @@ After graduating, I was keen to use Unity and C# to build an AR app. I made a Fi
 [Fireworks Github](https://github.com/fetc90/fireworks) <br>
 [Palm Tree Github](https://github.com/fetc90/palm-tree) <br>
 
-I am currently working through the online Tyler McGinnis course to “master the JavaScript Ecosystem”, to build my first app in React.
+I am currently working through the online Tyler McGinnis course to “master the JavaScript Ecosystem”.
 
 **Group Projects**
 <br>
@@ -88,21 +88,25 @@ I based my dissertation on women in prisons in the UK. I interviewed prison staf
  
 English Literature and Art History BA *(2:1)*
 
-During my BA, I learnt the invaluable lesson of how not to write. I loved reading novels and studying emotive (and some not so emotive) pieces of art, at the same time I was reading a lot of critical essays on literature and art – and unfortunately I started imitating those essays in my own writing. It was not effective. What point was I trying to make? Who knows, you've fallen down my Alice-in-Wonderland-tunnel of a sentence. You want the readers on your side. You also want to know exactly what you're talking about. Sure, obvious now, but it takes a couple of years of waffle to fully comprehend how little sense you’re making. 
+During my BA, I learnt the invaluable lesson of how not to write. I loved reading novels and studying emotive (and some not so emotive) pieces of art, at the same time I was reading a lot of critical essays on literature and art – and unfortunately I started imitating those essays in my own writing. It was not effective. What point was I trying to make? Who knows, you've fallen down my Alice-in-Wonderland-tunnel of a sentence. You want the readers on your side. You also want to know exactly what you're talking about. Sure, obvious now, but it takes a couple of years of waffle to fully appreciate how little sense you’re making. 
 
 ## Experience
 
 **Sport Heroes Group** (May '17 to December '18)    
 *UK Content and Community Lead*
 
-I managed the UK community of 100,000 members. This included researching and writing the weekly newsletter, building Facebook ads, outsourcing and leading the content team and managing the campaigns from start to finish for major sport brands.
+I managed the UK community of 100,000 members for a tech start-up. This included researching and writing the weekly newsletter, building Facebook ads and campaign reports from Google Analytics, outsourcing and leading the content team and managing the campaigns from start to finish for major sports brands. 
+
+<br> 
+
+This offered a much larger range of technologies than my previous role and I was energised by the challenge of learning how to use the different software. After having the chance to play around with an HTML template in Dreamweaver for the weekly newsletter, I realised how much I wanted to learn how to write code. It offered the logic and clarity that had attracted me to accounting during my previous role, while also incorporating a huge amount of creativity.
 <br>
 
 
 **tpr Media Consultants** (August '15 to April '17)   
 *Account Manager*  
 
-In a team of three, we built publicity campaigns for clients including the BBC and Channel 4, spanning across all media outlets. 
+In a team of three, we built publicity campaigns for clients including the BBC and Channel 4, spanning across all media outlets. I quickly became interested in the accounts and migrated the excel sheet system over to an accounting software called FreeAgent. This consolidated all financial matters, including invoices, business expenses, cash receipts and from there I was able to calculate the tax that was owed. I cancelled unnecessary subscriptions and highlighted overcharges, saving the founder and CEO considerable money. As a direct result of this, I considered studying accountancy. I liked the clarity it offered and the potential to help people understand what was happening with their money.
 
 
 **YPlan** (October '14 to June '15)   
